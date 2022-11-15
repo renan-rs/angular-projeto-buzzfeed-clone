@@ -1,0 +1,115 @@
+{
+  "title":"Qual a sua casa de Hogwarts?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você se considera mais:",
+      "options":[
+        {"id": 1, "name":"Ambicioso", "alias":"B"},
+        {"id": 2, "name":"Corajoso", "alias":"A"},
+        {"id": 3, "name":"Curioso", "alias":"C"},
+        {"id": 4, "name":"Gentil", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual a sua matéria favorita?",
+      "options":[
+        {"id": 1, "name":"Poções", "alias":"B"},
+        {"id": 2, "name":"Defesa contra a arte das trevas", "alias":"A"},
+        {"id": 3, "name":"Herbologia", "alias":"D"},
+        {"id": 4, "name":"Astronomia", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual seu professor favorito?",
+      "options":[
+        {"id": 1, "name":"Minerva", "alias":"A"},
+        {"id": 2, "name":"Snape", "alias":"B"},
+        {"id": 3, "name":"Sprout", "alias":"D"},
+        {"id": 4, "name":"Flitwick", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual casa você NÃO gostaria de ir?",
+      "options":[
+        {"id": 1, "name":"Lufa-lufa", "alias":"C"},
+        {"id": 2, "name":"Corvinal", "alias":"D"},
+        {"id": 3, "name":"Grifinória", "alias":"B"},
+        {"id": 4, "name":"Sonserina", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu personagem favorito?",
+      "options":[
+        {"id": 1, "name":"Cedrico", "alias":"D"},
+        {"id": 2, "name":"Gina", "alias":"A"},
+        {"id": 3, "name":"Luna", "alias":"C"},
+        {"id": 4, "name":"Draco", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que você faria por um amigo?",
+      "options":[
+        {"id": 1, "name":"Trairia ele", "alias":"B"},
+        {"id": 2, "name":"Morreria por ele", "alias":"A"},
+        {"id": 3, "name":"Roubaria por ele", "alias":"C"},
+        {"id": 4, "name":"Choraria por ele", "alias":"D"},
+        {"id": 5, "name":"Ele que se exploda", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Você está preso em um quarto, o que você faz?",
+      "options":[
+        {"id": 1, "name":"Fica sentado esperando", "alias":"B"},
+        {"id": 2, "name":"Tenta se lembrar de algum feitiço", "alias":"D"},
+        {"id": 3, "name":"Procura a chave", "alias":"A"},
+        {"id": 4, "name":"Começa a berrar pra ver se alguém escuta", "alias":"C"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Qual elemento você é?",
+      "options":[
+        {"id": 1, "name":"Terra", "alias":"D"},
+        {"id": 2, "name":"Água", "alias":"B"},
+        {"id": 3, "name":"Fogo", "alias":"A"},
+        {"id": 4, "name":"Ar", "alias":"C"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Qual sua cor favorita?",
+      "options":[
+        {"id": 1, "name":"Verde", "alias":"B"},
+        {"id": 2, "name":"Amarelo", "alias":"D"},
+        {"id": 3, "name":"Prata", "alias":"B"},
+        {"id": 4, "name":"Vermelho", "alias":"A"},
+        {"id": 5, "name":"Azul", "alias":"C"},
+        {"id": 6, "name":"Preto", "alias":"D"},
+        {"id": 7, "name":"Outro", "alias":"C"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Qual seu signo?",
+      "options":[
+        {"id": 1, "name":"Áries, Leão, Sagitário", "alias":"A"},
+        {"id": 2, "name":"Touro, Virgem, Capricórnio", "alias":"D"},
+        {"id": 3, "name":"Gêmeos, Libra, Aquário", "alias":"C"},
+        {"id": 4, "name":"Cancêr, Escorpião, Peixes", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Grifinória",
+    "B": "Sonserina",
+    "C": "Corvinal",
+    "D": "Lufa-Lufa"
+  }
+}

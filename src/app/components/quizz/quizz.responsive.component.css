@@ -1,0 +1,17 @@
+@media screen and (min-width:680px){
+  .quizz__logo > img{
+    max-height: 90px;
+    object-fit: contain;
+  }
+}
+@media screen and (min-width:1200px){
+  .quizz__container{
+    width: 65%;
+  }
+}
+
+@media screen and (max-width:680px){
+  .quizz__options > button{
+    flex-basis: 100%;
+  }
+}
